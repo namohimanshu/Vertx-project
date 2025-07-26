@@ -20,7 +20,7 @@
       <groupId>io.vertx</groupId>
       <artifactId>vertx-config</artifactId>
       <version>5.0.1</version>
-      <scope>test</scope>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>io.vertx</groupId>
